@@ -3,5 +3,7 @@
 // String 
 // The text value is a string in JavaScript.
 // The Syntax Of String is ""
-// Operator in JavaScript 
-// 
+// Operator in JavaScri
+console.log("This is my fisrt Code ")
+console.log("This code is for testing purpose ")
+
